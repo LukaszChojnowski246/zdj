@@ -30,8 +30,6 @@ print(string.digits)
 
 
 
-
-
 #utworz_samochod = {'Kolor': '','Marka': '','Rocznik': '', 'Silnik': '','Rodzaj paliwa': ''}
 #def samochod():
 #    utworz_samochod['Kolor'] = input('Podaj kolor samochodu: ')

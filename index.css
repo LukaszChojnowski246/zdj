@@ -1,4 +1,83 @@
 body{
-    font-family: 'Gaegu';
-    font-family: 'Fuzzy bubbles';
+    font-family: "Gaegu", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    font-family: "Fuzzy Bubbles", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  
+
+    font-family: "Fuzzy Bubbles", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+    height: 100vh;
+    width: 100vw;
+    
+    display: flex;
+    flex-direction: column;
+
+    
 }
+
+
+header{
+    display: flex;
+    flex-direction: row;
+    height: 20%;
+}
+.logo{
+    height: 20%;
+}
+#pasek{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-color: #194F82;
+    border-radius: 10px;
+    color: white;
+}
+
+aside{
+    color: #FFC10D;
+    height: 70%;
+    width: 40%;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+footer{
+    display: flex;
+    height: 14%;
+    width: 100%;
+}
+
+.blok11{
+    background-color: #194F82;
+}
+
+.blok22{
+    display: flex;
+    background-color: #FFC10D;
+}
+
+.zolte{
+    background-color: #FFC10D;
+}
+main{
+    align-self: center;
+}
+
+.ikona{
+    height: 100px;
+
+}
+
+.test{
+    display: flex;
+}
+
+
